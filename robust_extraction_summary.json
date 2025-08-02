@@ -1,0 +1,13 @@
+{
+  "extraction_date": "2025-08-02 02:09:36",
+  "total_reports": 10,
+  "successful_downloads": 9,
+  "failed_downloads": 0,
+  "reports_with_transactions": 9,
+  "total_transactions": 20,
+  "transactions_by_owner": {
+    "spouse": 14,
+    "child": 2,
+    "self": 4
+  }
+}
