@@ -1,0 +1,1606 @@
+2025-08-02 02:33:07,585 - INFO - Starting daily scrape
+2025-08-02 02:33:07,586 - INFO - Establishing session with Senate website...
+2025-08-02 02:33:12,566 - INFO - Accepted agreement via Selenium
+2025-08-02 02:33:12,571 - INFO - Searching for reports from 08/02/2025 to 08/02/2025
+2025-08-02 02:33:16,115 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:33:16,118 - INFO - Searching for reports from 08/01/2025 to 08/01/2025
+2025-08-02 02:33:19,573 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:33:19,575 - INFO - Daily scrape completed
+2025-08-02 02:35:19,404 - INFO - Starting daily scrape
+2025-08-02 02:35:19,405 - INFO - Establishing session with Senate website...
+2025-08-02 02:35:23,068 - INFO - Accepted agreement via Selenium
+2025-08-02 02:35:23,071 - INFO - Searching for reports from 08/02/2025 to 08/02/2025
+2025-08-02 02:35:26,812 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:35:26,812 - INFO - Searching for reports from 08/01/2025 to 08/01/2025
+2025-08-02 02:35:30,277 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:35:30,277 - INFO - Daily scrape completed
+2025-08-02 02:37:58,699 - INFO - Starting historical scrape from 2018 to 2018
+2025-08-02 02:37:58,699 - INFO - Establishing session with Senate website...
+2025-08-02 02:38:02,392 - INFO - Accepted agreement via Selenium
+2025-08-02 02:38:02,395 - INFO - Processing year: 2018
+2025-08-02 02:38:02,395 - INFO - Processing 2018-01
+2025-08-02 02:38:02,395 - INFO - Searching for reports from 01/01/2018 to 30/02/2018
+2025-08-02 02:38:06,110 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:38:08,111 - INFO - Processing 2018-02
+2025-08-02 02:38:08,111 - INFO - Searching for reports from 01/02/2018 to 30/03/2018
+2025-08-02 02:38:11,574 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:38:13,574 - INFO - Processing 2018-03
+2025-08-02 02:38:13,574 - INFO - Searching for reports from 01/03/2018 to 30/04/2018
+2025-08-02 02:38:17,052 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:38:19,053 - INFO - Processing 2018-04
+2025-08-02 02:38:19,053 - INFO - Searching for reports from 01/04/2018 to 30/05/2018
+2025-08-02 02:38:22,523 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:38:24,524 - INFO - Processing 2018-05
+2025-08-02 02:38:24,524 - INFO - Searching for reports from 01/05/2018 to 30/06/2018
+2025-08-02 02:38:27,953 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:38:29,954 - INFO - Processing 2018-06
+2025-08-02 02:38:29,954 - INFO - Searching for reports from 01/06/2018 to 30/07/2018
+2025-08-02 02:38:33,389 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:38:35,389 - INFO - Processing 2018-07
+2025-08-02 02:38:35,389 - INFO - Searching for reports from 01/07/2018 to 30/08/2018
+2025-08-02 02:38:38,874 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:38:40,875 - INFO - Processing 2018-08
+2025-08-02 02:38:40,875 - INFO - Searching for reports from 01/08/2018 to 30/09/2018
+2025-08-02 02:38:44,317 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:38:46,318 - INFO - Historical scrape completed
+2025-08-02 02:38:50,863 - INFO - Starting historical scrape from 2019 to 2019
+2025-08-02 02:38:50,863 - INFO - Establishing session with Senate website...
+2025-08-02 02:38:53,792 - INFO - Accepted agreement via Selenium
+2025-08-02 02:38:53,795 - INFO - Processing year: 2019
+2025-08-02 02:38:53,795 - INFO - Processing 2019-01
+2025-08-02 02:38:53,796 - INFO - Searching for reports from 01/01/2019 to 30/02/2019
+2025-08-02 02:38:57,674 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:38:59,675 - INFO - Processing 2019-02
+2025-08-02 02:38:59,675 - INFO - Searching for reports from 01/02/2019 to 30/03/2019
+2025-08-02 02:39:04,018 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:39:06,019 - INFO - Processing 2019-03
+2025-08-02 02:39:06,019 - INFO - Searching for reports from 01/03/2019 to 30/04/2019
+2025-08-02 02:39:09,624 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:39:11,625 - INFO - Processing 2019-04
+2025-08-02 02:39:11,625 - INFO - Searching for reports from 01/04/2019 to 30/05/2019
+2025-08-02 02:39:15,078 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:39:17,079 - INFO - Processing 2019-05
+2025-08-02 02:39:17,079 - INFO - Searching for reports from 01/05/2019 to 30/06/2019
+2025-08-02 02:39:20,682 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:39:22,682 - INFO - Processing 2019-06
+2025-08-02 02:39:22,682 - INFO - Searching for reports from 01/06/2019 to 30/07/2019
+2025-08-02 02:39:26,141 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:39:28,142 - INFO - Processing 2019-07
+2025-08-02 02:39:28,142 - INFO - Searching for reports from 01/07/2019 to 30/08/2019
+2025-08-02 02:39:31,607 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:39:33,607 - INFO - Processing 2019-08
+2025-08-02 02:39:33,607 - INFO - Searching for reports from 01/08/2019 to 30/09/2019
+2025-08-02 02:39:37,056 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:39:39,056 - INFO - Historical scrape completed
+2025-08-02 02:39:43,812 - INFO - Starting historical scrape from 2020 to 2020
+2025-08-02 02:39:43,812 - INFO - Establishing session with Senate website...
+2025-08-02 02:39:46,877 - INFO - Accepted agreement via Selenium
+2025-08-02 02:39:46,880 - INFO - Processing year: 2020
+2025-08-02 02:39:46,880 - INFO - Processing 2020-01
+2025-08-02 02:39:46,880 - INFO - Searching for reports from 01/01/2020 to 30/02/2020
+2025-08-02 02:39:50,604 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:39:52,604 - INFO - Processing 2020-02
+2025-08-02 02:39:52,605 - INFO - Searching for reports from 01/02/2020 to 30/03/2020
+2025-08-02 02:39:56,053 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:39:58,053 - INFO - Processing 2020-03
+2025-08-02 02:39:58,054 - INFO - Searching for reports from 01/03/2020 to 30/04/2020
+2025-08-02 02:40:01,661 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:40:03,661 - INFO - Processing 2020-04
+2025-08-02 02:40:03,661 - INFO - Searching for reports from 01/04/2020 to 30/05/2020
+2025-08-02 02:40:08,020 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:40:10,021 - INFO - Processing 2020-05
+2025-08-02 02:40:10,021 - INFO - Searching for reports from 01/05/2020 to 30/06/2020
+2025-08-02 02:40:13,486 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:40:15,486 - INFO - Processing 2020-06
+2025-08-02 02:40:15,487 - INFO - Searching for reports from 01/06/2020 to 30/07/2020
+2025-08-02 02:40:18,973 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:40:20,974 - INFO - Processing 2020-07
+2025-08-02 02:40:20,974 - INFO - Searching for reports from 01/07/2020 to 30/08/2020
+2025-08-02 02:40:24,568 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:40:26,568 - INFO - Processing 2020-08
+2025-08-02 02:40:26,568 - INFO - Searching for reports from 01/08/2020 to 30/09/2020
+2025-08-02 02:40:30,038 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:40:32,039 - INFO - Historical scrape completed
+2025-08-02 02:40:36,839 - INFO - Starting historical scrape from 2021 to 2021
+2025-08-02 02:40:36,839 - INFO - Establishing session with Senate website...
+2025-08-02 02:40:39,748 - INFO - Accepted agreement via Selenium
+2025-08-02 02:40:39,752 - INFO - Processing year: 2021
+2025-08-02 02:40:39,752 - INFO - Processing 2021-01
+2025-08-02 02:40:39,752 - INFO - Searching for reports from 01/01/2021 to 30/02/2021
+2025-08-02 02:40:43,859 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:40:45,860 - INFO - Processing 2021-02
+2025-08-02 02:40:45,860 - INFO - Searching for reports from 01/02/2021 to 30/03/2021
+2025-08-02 02:40:49,303 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:40:51,304 - INFO - Processing 2021-03
+2025-08-02 02:40:51,304 - INFO - Searching for reports from 01/03/2021 to 30/04/2021
+2025-08-02 02:40:54,752 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:40:56,753 - INFO - Processing 2021-04
+2025-08-02 02:40:56,753 - INFO - Searching for reports from 01/04/2021 to 30/05/2021
+2025-08-02 02:41:00,436 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:41:02,436 - INFO - Processing 2021-05
+2025-08-02 02:41:02,437 - INFO - Searching for reports from 01/05/2021 to 30/06/2021
+2025-08-02 02:41:05,880 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:41:07,881 - INFO - Processing 2021-06
+2025-08-02 02:41:07,882 - INFO - Searching for reports from 01/06/2021 to 30/07/2021
+2025-08-02 02:41:12,372 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:41:14,373 - INFO - Processing 2021-07
+2025-08-02 02:41:14,373 - INFO - Searching for reports from 01/07/2021 to 30/08/2021
+2025-08-02 02:41:17,820 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:41:19,821 - INFO - Processing 2021-08
+2025-08-02 02:41:19,821 - INFO - Searching for reports from 01/08/2021 to 30/09/2021
+2025-08-02 02:41:23,280 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:41:25,281 - INFO - Historical scrape completed
+2025-08-02 02:41:29,878 - INFO - Starting historical scrape from 2022 to 2022
+2025-08-02 02:41:29,878 - INFO - Establishing session with Senate website...
+2025-08-02 02:41:33,066 - INFO - Accepted agreement via Selenium
+2025-08-02 02:41:33,761 - INFO - Processing year: 2022
+2025-08-02 02:41:33,762 - INFO - Processing 2022-01
+2025-08-02 02:41:33,762 - INFO - Searching for reports from 01/01/2022 to 30/02/2022
+2025-08-02 02:41:37,277 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:41:39,278 - INFO - Processing 2022-02
+2025-08-02 02:41:39,278 - INFO - Searching for reports from 01/02/2022 to 30/03/2022
+2025-08-02 02:41:42,739 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:41:44,739 - INFO - Processing 2022-03
+2025-08-02 02:41:44,739 - INFO - Searching for reports from 01/03/2022 to 30/04/2022
+2025-08-02 02:41:48,344 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:41:50,345 - INFO - Processing 2022-04
+2025-08-02 02:41:50,345 - INFO - Searching for reports from 01/04/2022 to 30/05/2022
+2025-08-02 02:41:53,825 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:41:55,826 - INFO - Processing 2022-05
+2025-08-02 02:41:55,826 - INFO - Searching for reports from 01/05/2022 to 30/06/2022
+2025-08-02 02:41:59,433 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:42:01,434 - INFO - Processing 2022-06
+2025-08-02 02:42:01,434 - INFO - Searching for reports from 01/06/2022 to 30/07/2022
+2025-08-02 02:42:05,040 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:42:07,040 - INFO - Processing 2022-07
+2025-08-02 02:42:07,040 - INFO - Searching for reports from 01/07/2022 to 30/08/2022
+2025-08-02 02:42:53,338 - INFO - Starting historical scrape from 2018 to 2018
+2025-08-02 02:42:53,338 - INFO - Establishing session with Senate website...
+2025-08-02 02:42:57,197 - INFO - Accepted agreement via Selenium
+2025-08-02 02:42:57,201 - INFO - Processing year: 2018
+2025-08-02 02:42:57,201 - INFO - Processing 2018-01
+2025-08-02 02:42:57,201 - INFO - Searching for reports from 01/01/2018 to 30/02/2018
+2025-08-02 02:43:01,354 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:43:03,354 - INFO - Processing 2018-02
+2025-08-02 02:43:03,354 - INFO - Searching for reports from 01/02/2018 to 30/03/2018
+2025-08-02 02:43:06,784 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:43:08,785 - INFO - Processing 2018-03
+2025-08-02 02:43:08,786 - INFO - Searching for reports from 01/03/2018 to 30/04/2018
+2025-08-02 02:43:12,258 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:43:14,259 - INFO - Processing 2018-04
+2025-08-02 02:43:14,259 - INFO - Searching for reports from 01/04/2018 to 30/05/2018
+2025-08-02 02:43:17,817 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:43:19,817 - INFO - Processing 2018-05
+2025-08-02 02:43:19,817 - INFO - Searching for reports from 01/05/2018 to 30/06/2018
+2025-08-02 02:43:23,282 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:43:25,283 - INFO - Processing 2018-06
+2025-08-02 02:43:25,283 - INFO - Searching for reports from 01/06/2018 to 30/07/2018
+2025-08-02 02:43:28,745 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:43:30,746 - INFO - Processing 2018-07
+2025-08-02 02:43:30,746 - INFO - Searching for reports from 01/07/2018 to 30/08/2018
+2025-08-02 02:43:34,333 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:43:36,333 - INFO - Processing 2018-08
+2025-08-02 02:43:36,333 - INFO - Searching for reports from 01/08/2018 to 30/09/2018
+2025-08-02 02:43:39,802 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:43:41,803 - INFO - Historical scrape completed
+2025-08-02 02:47:15,031 - INFO - Starting historical scrape from 2018 to 2018
+2025-08-02 02:47:15,031 - INFO - Establishing session with Senate website...
+2025-08-02 02:47:18,741 - INFO - Accepted agreement via Selenium
+2025-08-02 02:47:18,744 - INFO - Processing year: 2018
+2025-08-02 02:47:18,744 - INFO - Processing 2018-01
+2025-08-02 02:47:18,744 - INFO - Searching for reports from 01/01/2018 to 30/02/2018
+2025-08-02 02:47:22,482 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:47:24,483 - INFO - Processing 2018-02
+2025-08-02 02:47:24,483 - INFO - Searching for reports from 01/02/2018 to 30/03/2018
+2025-08-02 02:47:27,948 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:47:29,949 - INFO - Processing 2018-03
+2025-08-02 02:47:29,950 - INFO - Searching for reports from 01/03/2018 to 30/04/2018
+2025-08-02 02:47:33,426 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:47:35,427 - INFO - Processing 2018-04
+2025-08-02 02:47:35,427 - INFO - Searching for reports from 01/04/2018 to 30/05/2018
+2025-08-02 02:47:39,347 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:47:41,348 - INFO - Processing 2018-05
+2025-08-02 02:47:41,348 - INFO - Searching for reports from 01/05/2018 to 30/06/2018
+2025-08-02 02:47:44,833 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:47:46,834 - INFO - Processing 2018-06
+2025-08-02 02:47:46,834 - INFO - Searching for reports from 01/06/2018 to 30/07/2018
+2025-08-02 02:47:50,348 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:47:52,349 - INFO - Processing 2018-07
+2025-08-02 02:47:52,349 - INFO - Searching for reports from 01/07/2018 to 30/08/2018
+2025-08-02 02:47:55,797 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:47:57,797 - INFO - Processing 2018-08
+2025-08-02 02:47:57,798 - INFO - Searching for reports from 01/08/2018 to 30/09/2018
+2025-08-02 02:48:01,250 - ERROR - Failed to set date range: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="fromDate"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff744eae415+77285]
+	GetHandleVerifier [0x0x7ff744eae470+77376]
+	(No symbol) [0x0x7ff744c79a6a]
+	(No symbol) [0x0x7ff744cd0406]
+	(No symbol) [0x0x7ff744cd06bc]
+	(No symbol) [0x0x7ff744d23ac7]
+	(No symbol) [0x0x7ff744cf864f]
+	(No symbol) [0x0x7ff744d2087f]
+	(No symbol) [0x0x7ff744cf83e3]
+	(No symbol) [0x0x7ff744cc1521]
+	(No symbol) [0x0x7ff744cc22b3]
+	GetHandleVerifier [0x0x7ff745191efd+3107021]
+	GetHandleVerifier [0x0x7ff74518c29d+3083373]
+	GetHandleVerifier [0x0x7ff7451abedd+3213485]
+	GetHandleVerifier [0x0x7ff744ec884e+184862]
+	GetHandleVerifier [0x0x7ff744ed055f+216879]
+	GetHandleVerifier [0x0x7ff744eb7084+113236]
+	GetHandleVerifier [0x0x7ff744eb7239+113673]
+	GetHandleVerifier [0x0x7ff744e9e298+11368]
+	BaseThreadInitThunk [0x0x7ff997dc7344+20]
+	RtlUserThreadStart [0x0x7ff9993e26b1+33]
+
+2025-08-02 02:48:03,250 - INFO - Historical scrape completed
